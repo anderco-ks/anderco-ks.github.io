@@ -13,7 +13,7 @@ Along with this, we developed a user-friendly interface, allowing users to custo
 
 As a member of our Agile development team, I programmed in JavaScript, TypeScript, PL/pgSQL and used tools and frameworks such as Angular, Bootstrap, Three.js, Node.js, PostgreSQL, Express.js, Angular Material, and Mapbox.
 
-*Keywords: Web Application Development, TypeScript, Angular, WebGL*
+*Keywords: Agile Software Development, TypeScript, Angular, WebGL*
 
 # Problem Solving with Algorithms
 Solved complex problems by using custom algorithm implentations - answers verified as successful implementations by instructors. The problems included:
