@@ -4,8 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 # Karta Solutions Platform
-## Customizable 3D training tool in the browser
-As a full-stack developer for Karta Solutions, I helped design and develop a cloud-based web application for 3D virtual trainings. This platform supports and integrates different types of digital assets, including:
+As a full-stack developer for [Karta Solutions](karta.solutions), I helped design and develop a cloud-based web application for 3D virtual trainings. This platform supports and integrates different types of digital assets, including:
 * 3D models in most common exchange formats (.gltf, .obj/.mtl, etc.) created either from artistic renderings or reality capture
 * 360° (Spherical) Images
 * GIS data
