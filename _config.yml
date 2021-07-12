@@ -23,7 +23,7 @@ email: coltonanderson1110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Co-Founder at Karta Solutions | Software Developer/Analyst | Angular, TypeScript, JavaScript, Node.js, PostgreSQL, Python
 
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: anderco-ks.github.io
 url: "https://anderco-ks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anderco-ks
