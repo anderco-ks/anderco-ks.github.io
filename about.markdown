@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="assets/images/selfie.jpeg" alt="Colton Anderson"
+<img src="./assets/images/selfie.jpeg" alt="Colton Anderson"
 	title="Colton Anderson" width="50%" height="50%" />
 
 I'm a full-stack developer / analyst with experience programming with TypeScript / JavaScript, Angular, Node.js / Express.js, and PL/pgSQL. 
