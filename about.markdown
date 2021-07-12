@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="selfie.jpeg" alt="Colton Anderson"
+<img src="assets/images/selfie.jpeg" alt="Colton Anderson"
 	title="Colton Anderson" width="50%" height="50%" />
-    
+
 I'm a full-stack developer / analyst with experience programming with TypeScript / JavaScript, Angular, Node.js / Express.js, and PL/pgSQL. 
 
 In 2020, I co-founded [Karta Solutions](karta.solutions), a software startup based in Anchorage, Alaska. We designed a web platform that provides a customizable virtual training tool for heavy industry use cases.
