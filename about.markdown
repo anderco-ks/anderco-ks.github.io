@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Colton Anderson](selfie.jpeg){:height="50%" width="50%"}
+<img src="selfie.jpeg" alt="Colton Anderson"
+	title="Colton Anderson" width="50%" height="50%" />
 # About Me
 I'm a full-stack developer / analyst with experience programming with TypeScript / JavaScript, Angular, Node.js / Express.js, and PL/pgSQL. 
 
